@@ -17,8 +17,8 @@ Today I built a dynamic expense tracker in Excel that helps users log daily expe
   - 📈 Monthly spending trend (Line chart)
 
   - 🚨 Conditional formatting flags when spending exceeds the monthly budget
-  - 
 
+    
 ✅ Skills used: SUMIFS, Data Validation, Pivot Tables, VLOOKUP, Charts, Conditional Formatting
 
 This project was all about turning raw data into actionable insight — with a clean layout and automation to simplify financial awareness.
