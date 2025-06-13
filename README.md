@@ -1,6 +1,7 @@
 # Day 26
 
 🎯 Day 26 of One Project a Day Until I Get Hired
+
 💼 Excel Expense Tracker & Dashboard
 
 Today I built a dynamic expense tracker in Excel that helps users log daily expenses and instantly see visual insights.
